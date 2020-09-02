@@ -1,0 +1,2 @@
+# PhpCI
+php ci
